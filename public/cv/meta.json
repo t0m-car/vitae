@@ -1,0 +1,10 @@
+{
+  "pages": [
+    {
+      "src": "/cv/page-1.png",
+      "width": 1653,
+      "height": 2339
+    }
+  ],
+  "pdfPath": "/cv.pdf"
+}
